@@ -9,7 +9,7 @@ Tout au cours de ce TP, chaque apprenant va ajouter son nom à cette liste
 5. 
 6. 
 7. 
-8. 
+8. Sandra
 9. 
 10. 
 11. 
